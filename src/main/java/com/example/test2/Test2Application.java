@@ -8,6 +8,7 @@ public class Test2Application {
 
     public static void main(String[] args) {
         //欸嘿嘿嘿嘿
+        // 方兴业开发功能1
         SpringApplication.run(Test2Application.class, args);
     }
 
